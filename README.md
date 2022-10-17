@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🧑‍💻About me
+I have a lot of experience with AWS.
+DevOps, Security, ECS are my specialty. 
 
-<!--
-**5hintaro/5hintaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm familiar with AWS CDK and Serverless Framework.
 
-Here are some ideas to get you started:
+# 🚀Tech Stack
+## Programming languages
+- Python
+- Javascript
+- Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cloud
+- AWS
+- Google Cloud
+
+## Frameworks, platforms & libraries
+- AWS CDK
+- Serverless Framework
+
+## Databases
+- PostgreSQL
+- Amazon DynamoDB
+
+## Other
+- Git
+- Docker
