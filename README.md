@@ -1,6 +1,6 @@
 # 🧑‍💻About me
 I have a lot of experience with AWS.
-DevOps, Security, ECS are my specialty. 
+DevOps, Security and Container are my specialties. 
 
 I'm familiar with AWS CDK and Serverless Framework.
 
@@ -8,10 +8,20 @@ I'm familiar with AWS CDK and Serverless Framework.
 ## Cloud
 - AWS
 - Google Cloud
+- CloudFlare
 
-## Frameworks, platforms & libraries
+## Infrastructure as Code
 - AWS CDK
 - Serverless Framework
+- Terraform
+- cdk8s
+
+## Programming Languages
+- Python
+- Typescript
+- Go
+- Shell
+- PowerShell
 
 ## Databases
 - PostgreSQL
